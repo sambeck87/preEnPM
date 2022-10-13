@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+}
+
+#searcher{
+    position:fixed;
+    padding: 0.3rem;;
+    max-height: 4rem;
+    background-color: rgb(15, 15, 15);
+    width: 99%;
+}
+#sLeft{
+    float: left;
+    padding: 1rem;
+    max-height: 2rem;
+}
+#iyoutube{
+    height: 2rem;
+    width: 6rem;
+    top: 50%;
+    float: right;
+}
+#menu{
+    width: 2rem;
+    height: 2rem;
+    background-color: grey;
+    top: 50%
+}
+#sRight{
+    padding: 1rem;
+    max-height: 2rem;
+   float: right;
+   margin-top: -60px;
+}
+
+#iAccess{
+    float: left;
+    height: 1.2rem;
+}
+#access{
+    height: 1.3rem;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(96, 123, 245);
+    padding: 0.3rem;
+}
+#access>a{
+    text-decoration: none;
+    color: rgb(96, 123, 245);
+    font-size: 14px;
+}
+#sCenter{
+    padding: 1rem 0% 1rem 40%;
+    max-height: 2rem;
+    max-width: 20rem;
+}
+#bSearch{
+width: 30px;}
+#search{
+    float:left;
+    background-color: black;
+    color:white;
+}
+
